@@ -1,0 +1,250 @@
+{
+  "add-binary:cpp": {
+    "folder": "67-add-binary",
+    "submission_id": "2093439648"
+  },
+  "add-strings:cpp": {
+    "folder": "415-add-strings",
+    "submission_id": "2103522676"
+  },
+  "add-to-array-form-of-integer:cpp": {
+    "folder": "1031-add-to-array-form-of-integer",
+    "submission_id": "2109337620"
+  },
+  "add-two-integers:cpp": {
+    "folder": "2383-add-two-integers",
+    "submission_id": "2051134814"
+  },
+  "binary-search:cpp": {
+    "folder": "792-binary-search",
+    "submission_id": "2070605309"
+  },
+  "capacity-to-ship-packages-within-d-days:cpp": {
+    "folder": "1056-capacity-to-ship-packages-within-d-days",
+    "submission_id": "2077942714"
+  },
+  "check-if-array-is-good:cpp": {
+    "folder": "2892-check-if-array-is-good",
+    "submission_id": "2061532910"
+  },
+  "check-if-array-is-sorted-and-rotated:cpp": {
+    "folder": "1878-check-if-array-is-sorted-and-rotated",
+    "submission_id": "2091699830"
+  },
+  "container-with-most-water:cpp": {
+    "folder": "11-container-with-most-water",
+    "submission_id": "2083670687"
+  },
+  "find-all-duplicates-in-an-array:cpp": {
+    "folder": "442-find-all-duplicates-in-an-array",
+    "submission_id": "2065195336"
+  },
+  "find-first-and-last-position-of-element-in-sorted-array:cpp": {
+    "folder": "34-find-first-and-last-position-of-element-in-sorted-array",
+    "submission_id": "2072196656"
+  },
+  "find-minimum-in-rotated-sorted-array:cpp": {
+    "folder": "153-find-minimum-in-rotated-sorted-array",
+    "submission_id": "2073555494"
+  },
+  "find-peak-element:cpp": {
+    "folder": "162-find-peak-element",
+    "submission_id": "2073483882"
+  },
+  "find-smallest-letter-greater-than-target:cpp": {
+    "folder": "745-find-smallest-letter-greater-than-target",
+    "submission_id": "2074097493"
+  },
+  "find-the-difference:cpp": {
+    "folder": "389-find-the-difference",
+    "submission_id": "2120114771"
+  },
+  "find-the-duplicate-number:cpp": {
+    "folder": "287-find-the-duplicate-number",
+    "submission_id": "2067366290"
+  },
+  "find-the-smallest-divisor-given-a-threshold:cpp": {
+    "folder": "1408-find-the-smallest-divisor-given-a-threshold",
+    "submission_id": "2075321512"
+  },
+  "first-bad-version:cpp": {
+    "folder": "278-first-bad-version",
+    "submission_id": "2072130354"
+  },
+  "first-unique-character-in-a-string:cpp": {
+    "folder": "387-first-unique-character-in-a-string",
+    "submission_id": "2099856742"
+  },
+  "guess-number-higher-or-lower:cpp": {
+    "folder": "374-guess-number-higher-or-lower",
+    "submission_id": "2072159398"
+  },
+  "height-checker:cpp": {
+    "folder": "1137-height-checker",
+    "submission_id": "2080286463"
+  },
+  "intersection-of-two-arrays-ii:cpp": {
+    "folder": "350-intersection-of-two-arrays-ii",
+    "submission_id": "2077476663"
+  },
+  "intersection-of-two-arrays:cpp": {
+    "folder": "349-intersection-of-two-arrays",
+    "submission_id": "2077474912"
+  },
+  "koko-eating-bananas:cpp": {
+    "folder": "907-koko-eating-bananas",
+    "submission_id": "2075249103"
+  },
+  "max-consecutive-ones:cpp": {
+    "folder": "485-max-consecutive-ones",
+    "submission_id": "2086471272"
+  },
+  "merge-sorted-array:cpp": {
+    "folder": "88-merge-sorted-array",
+    "submission_id": "2089061641"
+  },
+  "minimum-number-game:cpp": {
+    "folder": "3226-minimum-number-game",
+    "submission_id": "2067355779"
+  },
+  "minimum-number-of-days-to-make-m-bouquets:cpp": {
+    "folder": "1605-minimum-number-of-days-to-make-m-bouquets",
+    "submission_id": "2077975957"
+  },
+  "move-zeroes:cpp": {
+    "folder": "283-move-zeroes",
+    "submission_id": "2069317570"
+  },
+  "palindrome-number:cpp": {
+    "folder": "9-palindrome-number",
+    "submission_id": "2044885111"
+  },
+  "peak-index-in-a-mountain-array:cpp": {
+    "folder": "882-peak-index-in-a-mountain-array",
+    "submission_id": "2073102697"
+  },
+  "permutation-in-string:cpp": {
+    "folder": "567-permutation-in-string",
+    "submission_id": "2115103570"
+  },
+  "plus-one:cpp": {
+    "folder": "66-plus-one",
+    "submission_id": "2113131216"
+  },
+  "remove-all-adjacent-duplicates-in-string:cpp": {
+    "folder": "1128-remove-all-adjacent-duplicates-in-string",
+    "submission_id": "2110500613"
+  },
+  "remove-all-occurrences-of-a-substring:cpp": {
+    "folder": "2021-remove-all-occurrences-of-a-substring",
+    "submission_id": "2111817493"
+  },
+  "remove-duplicates-from-sorted-array-ii:cpp": {
+    "folder": "80-remove-duplicates-from-sorted-array-ii",
+    "submission_id": "2120894408"
+  },
+  "remove-duplicates-from-sorted-array:cpp": {
+    "folder": "26-remove-duplicates-from-sorted-array",
+    "submission_id": "2084283238"
+  },
+  "remove-element:cpp": {
+    "folder": "27-remove-element",
+    "submission_id": "2086423366"
+  },
+  "reverse-integer:cpp": {
+    "folder": "7-reverse-integer",
+    "submission_id": "2105854494"
+  },
+  "reverse-string-ii:cpp": {
+    "folder": "541-reverse-string-ii",
+    "submission_id": "2099490375"
+  },
+  "reverse-string:cpp": {
+    "folder": "344-reverse-string",
+    "submission_id": "2084238029"
+  },
+  "reverse-vowels-of-a-string:cpp": {
+    "folder": "345-reverse-vowels-of-a-string",
+    "submission_id": "2106632330"
+  },
+  "reverse-words-in-a-string-iii:cpp": {
+    "folder": "557-reverse-words-in-a-string-iii",
+    "submission_id": "2096350244"
+  },
+  "reverse-words-in-a-string:cpp": {
+    "folder": "151-reverse-words-in-a-string",
+    "submission_id": "2108115750"
+  },
+  "rotate-array:cpp": {
+    "folder": "189-rotate-array",
+    "submission_id": "2091662003"
+  },
+  "search-in-rotated-sorted-array-ii:cpp": {
+    "folder": "81-search-in-rotated-sorted-array-ii",
+    "submission_id": "2074020884"
+  },
+  "search-in-rotated-sorted-array:cpp": {
+    "folder": "33-search-in-rotated-sorted-array",
+    "submission_id": "2073503044"
+  },
+  "search-insert-position:cpp": {
+    "folder": "35-search-insert-position",
+    "submission_id": "2117785786"
+  },
+  "single-element-in-a-sorted-array:cpp": {
+    "folder": "540-single-element-in-a-sorted-array",
+    "submission_id": "2074048267"
+  },
+  "single-number:cpp": {
+    "folder": "136-single-number",
+    "submission_id": "2065041493"
+  },
+  "sort-array-by-parity:cpp": {
+    "folder": "941-sort-array-by-parity",
+    "submission_id": "2069338019"
+  },
+  "sort-colors:cpp": {
+    "folder": "75-sort-colors",
+    "submission_id": "2069388762"
+  },
+  "split-array-largest-sum:cpp": {
+    "folder": "410-split-array-largest-sum",
+    "submission_id": "2077929091"
+  },
+  "sqrtx:cpp": {
+    "folder": "69-sqrtx",
+    "submission_id": "2089434413"
+  },
+  "squares-of-a-sorted-array:cpp": {
+    "folder": "1019-squares-of-a-sorted-array",
+    "submission_id": "2084260008"
+  },
+  "third-maximum-number:cpp": {
+    "folder": "414-third-maximum-number",
+    "submission_id": "2086884328"
+  },
+  "to-lower-case:cpp": {
+    "folder": "742-to-lower-case",
+    "submission_id": "2102365840"
+  },
+  "two-sum-ii-input-array-is-sorted:cpp": {
+    "folder": "167-two-sum-ii-input-array-is-sorted",
+    "submission_id": "2068027396"
+  },
+  "two-sum:cpp": {
+    "folder": "1-two-sum",
+    "submission_id": "2043525765"
+  },
+  "valid-anagram:cpp": {
+    "folder": "242-valid-anagram",
+    "submission_id": "2116488213"
+  },
+  "valid-palindrome:cpp": {
+    "folder": "125-valid-palindrome",
+    "submission_id": "2094892970"
+  },
+  "valid-perfect-square:cpp": {
+    "folder": "367-valid-perfect-square",
+    "submission_id": "2074113325"
+  }
+}
