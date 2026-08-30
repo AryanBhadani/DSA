@@ -231,6 +231,10 @@
     "folder": "742-to-lower-case",
     "submission_id": "2102365840"
   },
+  "transpose-matrix:cpp": {
+    "folder": "898-transpose-matrix",
+    "submission_id": "2124987747"
+  },
   "two-sum-ii-input-array-is-sorted:cpp": {
     "folder": "167-two-sum-ii-input-array-is-sorted",
     "submission_id": "2068027396"
