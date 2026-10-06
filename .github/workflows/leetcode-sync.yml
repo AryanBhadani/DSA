@@ -30,8 +30,17 @@ jobs:
           LEETCODE_CSRF_TOKEN: ${{ secrets.LEETCODE_CSRF_TOKEN }}
         run: python sync.py
 
+      - name: Configure Git
+        run: |
+          git config user.name "AryanBhadani"
+          git config user.email "aryan.25bcon2785@jecrcu.edu.in"
+
       - name: Commit and push new solutions
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "chore: sync new LeetCode submissions"
-          file_pattern: "problems/** synced_submissions.json"
+        run: |
+          git add problems/** synced_submissions.json
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: sync new LeetCode submissions"
+            git push
+          fi
