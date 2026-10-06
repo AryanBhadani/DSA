@@ -208,7 +208,7 @@ def write_problem(details, submission):
     solution_path = folder / f"solution.{ext}"
     solution_path.write_text(details["code"])
 
-    tags = ", ".join(t["name"] for t in question.get("topicTags", []))
+    tags = ", ".join(t["name"] for t in question.get("topicTags") or [])
     readme_path = folder / "README.md"
     readme_path.write_text(
         f"# {question['questionId']}. {question['title']}\n\n"
