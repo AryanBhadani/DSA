@@ -10,6 +10,10 @@
 [![Auto Sync](https://img.shields.io/badge/Sync-Automated-2ea44f?style=for-the-badge&logo=githubactions&logoColor=white)](../../actions/workflows/leetcode-sync.yml)
 [![Language](https://img.shields.io/badge/Made%20with-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
+### 📊 LeetCode Statistics
+
+![LeetCode Stats](./leetcode_stats.svg)
+
 </div>
 
 ---
