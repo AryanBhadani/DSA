@@ -1,0 +1,146 @@
+{
+  "data": {
+    "recentSubmissionList": [
+      {
+        "title": "Sort Array By Parity II",
+        "titleSlug": "sort-array-by-parity-ii",
+        "statusDisplay": "Accepted",
+        "lang": "cpp",
+        "timestamp": "1791852480"
+      },
+      {
+        "title": "Power of Two",
+        "titleSlug": "power-of-two",
+        "statusDisplay": "Accepted",
+        "lang": "cpp",
+        "timestamp": "1791825586"
+      },
+      {
+        "title": "Maximum XOR of Two Numbers in an Array",
+        "titleSlug": "maximum-xor-of-two-numbers-in-an-array",
+        "statusDisplay": "Time Limit Exceeded",
+        "lang": "cpp",
+        "timestamp": "1791767509"
+      },
+      {
+        "title": "Minimum Moves to Equal Array Elements",
+        "titleSlug": "minimum-moves-to-equal-array-elements",
+        "statusDisplay": "Accepted",
+        "lang": "cpp",
+        "timestamp": "1791766295"
+      },
+      {
+        "title": "Prime Subset Selection I",
+        "titleSlug": "prime-subset-selection-i",
+        "statusDisplay": "Time Limit Exceeded",
+        "lang": "cpp",
+        "timestamp": "1791690230"
+      },
+      {
+        "title": "Three Fibonacci Sum",
+        "titleSlug": "three-fibonacci-sum",
+        "statusDisplay": "Accepted",
+        "lang": "cpp",
+        "timestamp": "1791688595"
+      },
+      {
+        "title": "Next Greater Element I",
+        "titleSlug": "next-greater-element-i",
+        "statusDisplay": "Accepted",
+        "lang": "cpp",
+        "timestamp": "1791685165"
+      },
+      {
+        "title": "Maximum Product of Two Elements in an Array",
+        "titleSlug": "maximum-product-of-two-elements-in-an-array",
+        "statusDisplay": "Accepted",
+        "lang": "cpp",
+        "timestamp": "1791628556"
+      },
+      {
+        "title": "Maximum Product of Two Elements in an Array",
+        "titleSlug": "maximum-product-of-two-elements-in-an-array",
+        "statusDisplay": "Accepted",
+        "lang": "cpp",
+        "timestamp": "1791628306"
+      },
+      {
+        "title": "Find Numbers with Even Number of Digits",
+        "titleSlug": "find-numbers-with-even-number-of-digits",
+        "statusDisplay": "Accepted",
+        "lang": "cpp",
+        "timestamp": "1791574979"
+      },
+      {
+        "title": "Find Numbers with Even Number of Digits",
+        "titleSlug": "find-numbers-with-even-number-of-digits",
+        "statusDisplay": "Compile Error",
+        "lang": "cpp",
+        "timestamp": "1791574942"
+      },
+      {
+        "title": "Perfect Number",
+        "titleSlug": "perfect-number",
+        "statusDisplay": "Accepted",
+        "lang": "cpp",
+        "timestamp": "1791494507"
+      },
+      {
+        "title": "Find Pivot Index",
+        "titleSlug": "find-pivot-index",
+        "statusDisplay": "Accepted",
+        "lang": "cpp",
+        "timestamp": "1791494124"
+      },
+      {
+        "title": "Jewels and Stones",
+        "titleSlug": "jewels-and-stones",
+        "statusDisplay": "Accepted",
+        "lang": "cpp",
+        "timestamp": "1791409902"
+      },
+      {
+        "title": "Jewels and Stones",
+        "titleSlug": "jewels-and-stones",
+        "statusDisplay": "Compile Error",
+        "lang": "cpp",
+        "timestamp": "1791409892"
+      },
+      {
+        "title": "Keep Multiplying Found Values by Two",
+        "titleSlug": "keep-multiplying-found-values-by-two",
+        "statusDisplay": "Accepted",
+        "lang": "cpp",
+        "timestamp": "1791409023"
+      },
+      {
+        "title": "Integer to Roman",
+        "titleSlug": "integer-to-roman",
+        "statusDisplay": "Accepted",
+        "lang": "cpp",
+        "timestamp": "1791407466"
+      },
+      {
+        "title": "Valid Triangle Number",
+        "titleSlug": "valid-triangle-number",
+        "statusDisplay": "Accepted",
+        "lang": "cpp",
+        "timestamp": "1791403347"
+      },
+      {
+        "title": "Valid Triangle Number",
+        "titleSlug": "valid-triangle-number",
+        "statusDisplay": "Wrong Answer",
+        "lang": "cpp",
+        "timestamp": "1791403272"
+      },
+      {
+        "title": "Best Time to Buy and Sell Stock",
+        "titleSlug": "best-time-to-buy-and-sell-stock",
+        "statusDisplay": "Accepted",
+        "lang": "cpp",
+        "timestamp": "1791325516"
+      }
+    ]
+  }
+}

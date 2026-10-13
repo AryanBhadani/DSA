@@ -1,0 +1,1225 @@
+{
+  "audit_timestamp": "2026-10-13T12:45:26.415798",
+  "source_directory": "C:\\Users\\vikas\\CascadeProjects\\DSA",
+  "problems_directory": "C:\\Users\\vikas\\CascadeProjects\\DSA\\problems",
+  "tracker_entries": 64,
+  "solutions": [
+    {
+      "folder_name": "1-two-sum",
+      "problem_id": "1",
+      "title_slug": "two-sum",
+      "has_solution": true,
+      "solution_files": [
+        "solution.cpp"
+      ],
+      "has_cpp": true,
+      "cpp_files": [
+        "solution.cpp"
+      ],
+      "has_readme": true,
+      "tracker_entry": {
+        "key": "two-sum:cpp",
+        "submission_id": "2043525765"
+      },
+      "verification_status": "needs_review"
+    },
+    {
+      "folder_name": "1019-squares-of-a-sorted-array",
+      "problem_id": "1019",
+      "title_slug": "squares-of-a-sorted-array",
+      "has_solution": true,
+      "solution_files": [
+        "solution.cpp"
+      ],
+      "has_cpp": true,
+      "cpp_files": [
+        "solution.cpp"
+      ],
+      "has_readme": true,
+      "tracker_entry": {
+        "key": "squares-of-a-sorted-array:cpp",
+        "submission_id": "2084260008"
+      },
+      "verification_status": "needs_review"
+    },
+    {
+      "folder_name": "1031-add-to-array-form-of-integer",
+      "problem_id": "1031",
+      "title_slug": "add-to-array-form-of-integer",
+      "has_solution": true,
+      "solution_files": [
+        "solution.cpp"
+      ],
+      "has_cpp": true,
+      "cpp_files": [
+        "solution.cpp"
+      ],
+      "has_readme": true,
+      "tracker_entry": {
+        "key": "add-to-array-form-of-integer:cpp",
+        "submission_id": "2109337620"
+      },
+      "verification_status": "needs_review"
+    },
+    {
+      "folder_name": "1056-capacity-to-ship-packages-within-d-days",
+      "problem_id": "1056",
+      "title_slug": "capacity-to-ship-packages-within-d-days",
+      "has_solution": true,
+      "solution_files": [
+        "solution.cpp"
+      ],
+      "has_cpp": true,
+      "cpp_files": [
+        "solution.cpp"
+      ],
+      "has_readme": true,
+      "tracker_entry": {
+        "key": "capacity-to-ship-packages-within-d-days:cpp",
+        "submission_id": "2077942714"
+      },
+      "verification_status": "needs_review"
+    },
+    {
+      "folder_name": "11-container-with-most-water",
+      "problem_id": "11",
+      "title_slug": "container-with-most-water",
+      "has_solution": true,
+      "solution_files": [
+        "solution.cpp"
+      ],
+      "has_cpp": true,
+      "cpp_files": [
+        "solution.cpp"
+      ],
+      "has_readme": true,
+      "tracker_entry": {
+        "key": "container-with-most-water:cpp",
+        "submission_id": "2083670687"
+      },
+      "verification_status": "needs_review"
+    },
+    {
+      "folder_name": "1128-remove-all-adjacent-duplicates-in-string",
+      "problem_id": "1128",
+      "title_slug": "remove-all-adjacent-duplicates-in-string",
+      "has_solution": true,
+      "solution_files": [
+        "solution.cpp"
+      ],
+      "has_cpp": true,
+      "cpp_files": [
+        "solution.cpp"
+      ],
+      "has_readme": true,
+      "tracker_entry": {
+        "key": "remove-all-adjacent-duplicates-in-string:cpp",
+        "submission_id": "2110500613"
+      },
+      "verification_status": "needs_review"
+    },
+    {
+      "folder_name": "1137-height-checker",
+      "problem_id": "1137",
+      "title_slug": "height-checker",
+      "has_solution": true,
+      "solution_files": [
+        "solution.cpp"
+      ],
+      "has_cpp": true,
+      "cpp_files": [
+        "solution.cpp"
+      ],
+      "has_readme": true,
+      "tracker_entry": {
+        "key": "height-checker:cpp",
+        "submission_id": "2080286463"
+      },
+      "verification_status": "needs_review"
+    },
+    {
+      "folder_name": "125-valid-palindrome",
+      "problem_id": "125",
+      "title_slug": "valid-palindrome",
+      "has_solution": true,
+      "solution_files": [
+        "solution.cpp"
+      ],
+      "has_cpp": true,
+      "cpp_files": [
+        "solution.cpp"
+      ],
+      "has_readme": true,
+      "tracker_entry": {
+        "key": "valid-palindrome:cpp",
+        "submission_id": "2094892970"
+      },
+      "verification_status": "needs_review"
+    },
+    {
+      "folder_name": "136-single-number",
+      "problem_id": "136",
+      "title_slug": "single-number",
+      "has_solution": true,
+      "solution_files": [
+        "solution.cpp"
+      ],
+      "has_cpp": true,
+      "cpp_files": [
+        "solution.cpp"
+      ],
+      "has_readme": true,
+      "tracker_entry": {
+        "key": "single-number:cpp",
+        "submission_id": "2065041493"
+      },
+      "verification_status": "needs_review"
+    },
+    {
+      "folder_name": "1408-find-the-smallest-divisor-given-a-threshold",
+      "problem_id": "1408",
+      "title_slug": "find-the-smallest-divisor-given-a-threshold",
+      "has_solution": true,
+      "solution_files": [
+        "solution.cpp"
+      ],
+      "has_cpp": true,
+      "cpp_files": [
+        "solution.cpp"
+      ],
+      "has_readme": true,
+      "tracker_entry": {
+        "key": "find-the-smallest-divisor-given-a-threshold:cpp",
+        "submission_id": "2075321512"
+      },
+      "verification_status": "needs_review"
+    },
+    {
+      "folder_name": "151-reverse-words-in-a-string",
+      "problem_id": "151",
+      "title_slug": "reverse-words-in-a-string",
+      "has_solution": true,
+      "solution_files": [
+        "solution.cpp"
+      ],
+      "has_cpp": true,
+      "cpp_files": [
+        "solution.cpp"
+      ],
+      "has_readme": true,
+      "tracker_entry": {
+        "key": "reverse-words-in-a-string:cpp",
+        "submission_id": "2108115750"
+      },
+      "verification_status": "needs_review"
+    },
+    {
+      "folder_name": "153-find-minimum-in-rotated-sorted-array",
+      "problem_id": "153",
+      "title_slug": "find-minimum-in-rotated-sorted-array",
+      "has_solution": true,
+      "solution_files": [
+        "solution.cpp"
+      ],
+      "has_cpp": true,
+      "cpp_files": [
+        "solution.cpp"
+      ],
+      "has_readme": true,
+      "tracker_entry": {
+        "key": "find-minimum-in-rotated-sorted-array:cpp",
+        "submission_id": "2073555494"
+      },
+      "verification_status": "needs_review"
+    },
+    {
+      "folder_name": "1605-minimum-number-of-days-to-make-m-bouquets",
+      "problem_id": "1605",
+      "title_slug": "minimum-number-of-days-to-make-m-bouquets",
+      "has_solution": true,
+      "solution_files": [
+        "solution.cpp"
+      ],
+      "has_cpp": true,
+      "cpp_files": [
+        "solution.cpp"
+      ],
+      "has_readme": true,
+      "tracker_entry": {
+        "key": "minimum-number-of-days-to-make-m-bouquets:cpp",
+        "submission_id": "2077975957"
+      },
+      "verification_status": "needs_review"
+    },
+    {
+      "folder_name": "162-find-peak-element",
+      "problem_id": "162",
+      "title_slug": "find-peak-element",
+      "has_solution": true,
+      "solution_files": [
+        "solution.cpp"
+      ],
+      "has_cpp": true,
+      "cpp_files": [
+        "solution.cpp"
+      ],
+      "has_readme": true,
+      "tracker_entry": {
+        "key": "find-peak-element:cpp",
+        "submission_id": "2073483882"
+      },
+      "verification_status": "needs_review"
+    },
+    {
+      "folder_name": "167-two-sum-ii-input-array-is-sorted",
+      "problem_id": "167",
+      "title_slug": "two-sum-ii-input-array-is-sorted",
+      "has_solution": true,
+      "solution_files": [
+        "solution.cpp"
+      ],
+      "has_cpp": true,
+      "cpp_files": [
+        "solution.cpp"
+      ],
+      "has_readme": true,
+      "tracker_entry": {
+        "key": "two-sum-ii-input-array-is-sorted:cpp",
+        "submission_id": "2068027396"
+      },
+      "verification_status": "needs_review"
+    },
+    {
+      "folder_name": "1677-matrix-diagonal-sum",
+      "problem_id": "1677",
+      "title_slug": "matrix-diagonal-sum",
+      "has_solution": true,
+      "solution_files": [
+        "solution.cpp"
+      ],
+      "has_cpp": true,
+      "cpp_files": [
+        "solution.cpp"
+      ],
+      "has_readme": true,
+      "tracker_entry": {
+        "key": "matrix-diagonal-sum:cpp",
+        "submission_id": "2122384327"
+      },
+      "verification_status": "needs_review"
+    },
+    {
+      "folder_name": "1878-check-if-array-is-sorted-and-rotated",
+      "problem_id": "1878",
+      "title_slug": "check-if-array-is-sorted-and-rotated",
+      "has_solution": true,
+      "solution_files": [
+        "solution.cpp"
+      ],
+      "has_cpp": true,
+      "cpp_files": [
+        "solution.cpp"
+      ],
+      "has_readme": true,
+      "tracker_entry": {
+        "key": "check-if-array-is-sorted-and-rotated:cpp",
+        "submission_id": "2091699830"
+      },
+      "verification_status": "needs_review"
+    },
+    {
+      "folder_name": "189-rotate-array",
+      "problem_id": "189",
+      "title_slug": "rotate-array",
+      "has_solution": true,
+      "solution_files": [
+        "solution.cpp"
+      ],
+      "has_cpp": true,
+      "cpp_files": [
+        "solution.cpp"
+      ],
+      "has_readme": true,
+      "tracker_entry": {
+        "key": "rotate-array:cpp",
+        "submission_id": "2091662003"
+      },
+      "verification_status": "needs_review"
+    },
+    {
+      "folder_name": "2021-remove-all-occurrences-of-a-substring",
+      "problem_id": "2021",
+      "title_slug": "remove-all-occurrences-of-a-substring",
+      "has_solution": true,
+      "solution_files": [
+        "solution.cpp"
+      ],
+      "has_cpp": true,
+      "cpp_files": [
+        "solution.cpp"
+      ],
+      "has_readme": true,
+      "tracker_entry": {
+        "key": "remove-all-occurrences-of-a-substring:cpp",
+        "submission_id": "2111817493"
+      },
+      "verification_status": "needs_review"
+    },
+    {
+      "folder_name": "2383-add-two-integers",
+      "problem_id": "2383",
+      "title_slug": "add-two-integers",
+      "has_solution": true,
+      "solution_files": [
+        "solution.cpp"
+      ],
+      "has_cpp": true,
+      "cpp_files": [
+        "solution.cpp"
+      ],
+      "has_readme": true,
+      "tracker_entry": {
+        "key": "add-two-integers:cpp",
+        "submission_id": "2051134814"
+      },
+      "verification_status": "needs_review"
+    },
+    {
+      "folder_name": "242-valid-anagram",
+      "problem_id": "242",
+      "title_slug": "valid-anagram",
+      "has_solution": true,
+      "solution_files": [
+        "solution.cpp"
+      ],
+      "has_cpp": true,
+      "cpp_files": [
+        "solution.cpp"
+      ],
+      "has_readme": true,
+      "tracker_entry": {
+        "key": "valid-anagram:cpp",
+        "submission_id": "2116488213"
+      },
+      "verification_status": "needs_review"
+    },
+    {
+      "folder_name": "26-remove-duplicates-from-sorted-array",
+      "problem_id": "26",
+      "title_slug": "remove-duplicates-from-sorted-array",
+      "has_solution": true,
+      "solution_files": [
+        "solution.cpp"
+      ],
+      "has_cpp": true,
+      "cpp_files": [
+        "solution.cpp"
+      ],
+      "has_readme": true,
+      "tracker_entry": {
+        "key": "remove-duplicates-from-sorted-array:cpp",
+        "submission_id": "2084283238"
+      },
+      "verification_status": "needs_review"
+    },
+    {
+      "folder_name": "27-remove-element",
+      "problem_id": "27",
+      "title_slug": "remove-element",
+      "has_solution": true,
+      "solution_files": [
+        "solution.cpp"
+      ],
+      "has_cpp": true,
+      "cpp_files": [
+        "solution.cpp"
+      ],
+      "has_readme": true,
+      "tracker_entry": {
+        "key": "remove-element:cpp",
+        "submission_id": "2086423366"
+      },
+      "verification_status": "needs_review"
+    },
+    {
+      "folder_name": "278-first-bad-version",
+      "problem_id": "278",
+      "title_slug": "first-bad-version",
+      "has_solution": true,
+      "solution_files": [
+        "solution.cpp"
+      ],
+      "has_cpp": true,
+      "cpp_files": [
+        "solution.cpp"
+      ],
+      "has_readme": true,
+      "tracker_entry": {
+        "key": "first-bad-version:cpp",
+        "submission_id": "2072130354"
+      },
+      "verification_status": "needs_review"
+    },
+    {
+      "folder_name": "283-move-zeroes",
+      "problem_id": "283",
+      "title_slug": "move-zeroes",
+      "has_solution": true,
+      "solution_files": [
+        "solution.cpp"
+      ],
+      "has_cpp": true,
+      "cpp_files": [
+        "solution.cpp"
+      ],
+      "has_readme": true,
+      "tracker_entry": {
+        "key": "move-zeroes:cpp",
+        "submission_id": "2069317570"
+      },
+      "verification_status": "needs_review"
+    },
+    {
+      "folder_name": "287-find-the-duplicate-number",
+      "problem_id": "287",
+      "title_slug": "find-the-duplicate-number",
+      "has_solution": true,
+      "solution_files": [
+        "solution.cpp"
+      ],
+      "has_cpp": true,
+      "cpp_files": [
+        "solution.cpp"
+      ],
+      "has_readme": true,
+      "tracker_entry": {
+        "key": "find-the-duplicate-number:cpp",
+        "submission_id": "2067366290"
+      },
+      "verification_status": "needs_review"
+    },
+    {
+      "folder_name": "2892-check-if-array-is-good",
+      "problem_id": "2892",
+      "title_slug": "check-if-array-is-good",
+      "has_solution": true,
+      "solution_files": [
+        "solution.cpp"
+      ],
+      "has_cpp": true,
+      "cpp_files": [
+        "solution.cpp"
+      ],
+      "has_readme": true,
+      "tracker_entry": {
+        "key": "check-if-array-is-good:cpp",
+        "submission_id": "2061532910"
+      },
+      "verification_status": "needs_review"
+    },
+    {
+      "folder_name": "3226-minimum-number-game",
+      "problem_id": "3226",
+      "title_slug": "minimum-number-game",
+      "has_solution": true,
+      "solution_files": [
+        "solution.cpp"
+      ],
+      "has_cpp": true,
+      "cpp_files": [
+        "solution.cpp"
+      ],
+      "has_readme": true,
+      "tracker_entry": {
+        "key": "minimum-number-game:cpp",
+        "submission_id": "2067355779"
+      },
+      "verification_status": "needs_review"
+    },
+    {
+      "folder_name": "33-search-in-rotated-sorted-array",
+      "problem_id": "33",
+      "title_slug": "search-in-rotated-sorted-array",
+      "has_solution": true,
+      "solution_files": [
+        "solution.cpp"
+      ],
+      "has_cpp": true,
+      "cpp_files": [
+        "solution.cpp"
+      ],
+      "has_readme": true,
+      "tracker_entry": {
+        "key": "search-in-rotated-sorted-array:cpp",
+        "submission_id": "2073503044"
+      },
+      "verification_status": "needs_review"
+    },
+    {
+      "folder_name": "34-find-first-and-last-position-of-element-in-sorted-array",
+      "problem_id": "34",
+      "title_slug": "find-first-and-last-position-of-element-in-sorted-array",
+      "has_solution": true,
+      "solution_files": [
+        "solution.cpp"
+      ],
+      "has_cpp": true,
+      "cpp_files": [
+        "solution.cpp"
+      ],
+      "has_readme": true,
+      "tracker_entry": {
+        "key": "find-first-and-last-position-of-element-in-sorted-array:cpp",
+        "submission_id": "2072196656"
+      },
+      "verification_status": "needs_review"
+    },
+    {
+      "folder_name": "344-reverse-string",
+      "problem_id": "344",
+      "title_slug": "reverse-string",
+      "has_solution": true,
+      "solution_files": [
+        "solution.cpp"
+      ],
+      "has_cpp": true,
+      "cpp_files": [
+        "solution.cpp"
+      ],
+      "has_readme": true,
+      "tracker_entry": {
+        "key": "reverse-string:cpp",
+        "submission_id": "2084238029"
+      },
+      "verification_status": "needs_review"
+    },
+    {
+      "folder_name": "345-reverse-vowels-of-a-string",
+      "problem_id": "345",
+      "title_slug": "reverse-vowels-of-a-string",
+      "has_solution": true,
+      "solution_files": [
+        "solution.cpp"
+      ],
+      "has_cpp": true,
+      "cpp_files": [
+        "solution.cpp"
+      ],
+      "has_readme": true,
+      "tracker_entry": {
+        "key": "reverse-vowels-of-a-string:cpp",
+        "submission_id": "2106632330"
+      },
+      "verification_status": "needs_review"
+    },
+    {
+      "folder_name": "349-intersection-of-two-arrays",
+      "problem_id": "349",
+      "title_slug": "intersection-of-two-arrays",
+      "has_solution": true,
+      "solution_files": [
+        "solution.cpp"
+      ],
+      "has_cpp": true,
+      "cpp_files": [
+        "solution.cpp"
+      ],
+      "has_readme": true,
+      "tracker_entry": {
+        "key": "intersection-of-two-arrays:cpp",
+        "submission_id": "2077474912"
+      },
+      "verification_status": "needs_review"
+    },
+    {
+      "folder_name": "35-search-insert-position",
+      "problem_id": "35",
+      "title_slug": "search-insert-position",
+      "has_solution": true,
+      "solution_files": [
+        "solution.cpp"
+      ],
+      "has_cpp": true,
+      "cpp_files": [
+        "solution.cpp"
+      ],
+      "has_readme": true,
+      "tracker_entry": {
+        "key": "search-insert-position:cpp",
+        "submission_id": "2117785786"
+      },
+      "verification_status": "needs_review"
+    },
+    {
+      "folder_name": "350-intersection-of-two-arrays-ii",
+      "problem_id": "350",
+      "title_slug": "intersection-of-two-arrays-ii",
+      "has_solution": true,
+      "solution_files": [
+        "solution.cpp"
+      ],
+      "has_cpp": true,
+      "cpp_files": [
+        "solution.cpp"
+      ],
+      "has_readme": true,
+      "tracker_entry": {
+        "key": "intersection-of-two-arrays-ii:cpp",
+        "submission_id": "2077476663"
+      },
+      "verification_status": "needs_review"
+    },
+    {
+      "folder_name": "367-valid-perfect-square",
+      "problem_id": "367",
+      "title_slug": "valid-perfect-square",
+      "has_solution": true,
+      "solution_files": [
+        "solution.cpp"
+      ],
+      "has_cpp": true,
+      "cpp_files": [
+        "solution.cpp"
+      ],
+      "has_readme": true,
+      "tracker_entry": {
+        "key": "valid-perfect-square:cpp",
+        "submission_id": "2074113325"
+      },
+      "verification_status": "needs_review"
+    },
+    {
+      "folder_name": "374-guess-number-higher-or-lower",
+      "problem_id": "374",
+      "title_slug": "guess-number-higher-or-lower",
+      "has_solution": true,
+      "solution_files": [
+        "solution.cpp"
+      ],
+      "has_cpp": true,
+      "cpp_files": [
+        "solution.cpp"
+      ],
+      "has_readme": true,
+      "tracker_entry": {
+        "key": "guess-number-higher-or-lower:cpp",
+        "submission_id": "2072159398"
+      },
+      "verification_status": "needs_review"
+    },
+    {
+      "folder_name": "387-first-unique-character-in-a-string",
+      "problem_id": "387",
+      "title_slug": "first-unique-character-in-a-string",
+      "has_solution": true,
+      "solution_files": [
+        "solution.cpp"
+      ],
+      "has_cpp": true,
+      "cpp_files": [
+        "solution.cpp"
+      ],
+      "has_readme": true,
+      "tracker_entry": {
+        "key": "first-unique-character-in-a-string:cpp",
+        "submission_id": "2099856742"
+      },
+      "verification_status": "needs_review"
+    },
+    {
+      "folder_name": "389-find-the-difference",
+      "problem_id": "389",
+      "title_slug": "find-the-difference",
+      "has_solution": true,
+      "solution_files": [
+        "solution.cpp"
+      ],
+      "has_cpp": true,
+      "cpp_files": [
+        "solution.cpp"
+      ],
+      "has_readme": true,
+      "tracker_entry": {
+        "key": "find-the-difference:cpp",
+        "submission_id": "2120114771"
+      },
+      "verification_status": "needs_review"
+    },
+    {
+      "folder_name": "410-split-array-largest-sum",
+      "problem_id": "410",
+      "title_slug": "split-array-largest-sum",
+      "has_solution": true,
+      "solution_files": [
+        "solution.cpp"
+      ],
+      "has_cpp": true,
+      "cpp_files": [
+        "solution.cpp"
+      ],
+      "has_readme": true,
+      "tracker_entry": {
+        "key": "split-array-largest-sum:cpp",
+        "submission_id": "2077929091"
+      },
+      "verification_status": "needs_review"
+    },
+    {
+      "folder_name": "414-third-maximum-number",
+      "problem_id": "414",
+      "title_slug": "third-maximum-number",
+      "has_solution": true,
+      "solution_files": [
+        "solution.cpp"
+      ],
+      "has_cpp": true,
+      "cpp_files": [
+        "solution.cpp"
+      ],
+      "has_readme": true,
+      "tracker_entry": {
+        "key": "third-maximum-number:cpp",
+        "submission_id": "2086884328"
+      },
+      "verification_status": "needs_review"
+    },
+    {
+      "folder_name": "415-add-strings",
+      "problem_id": "415",
+      "title_slug": "add-strings",
+      "has_solution": true,
+      "solution_files": [
+        "solution.cpp"
+      ],
+      "has_cpp": true,
+      "cpp_files": [
+        "solution.cpp"
+      ],
+      "has_readme": true,
+      "tracker_entry": {
+        "key": "add-strings:cpp",
+        "submission_id": "2103522676"
+      },
+      "verification_status": "needs_review"
+    },
+    {
+      "folder_name": "442-find-all-duplicates-in-an-array",
+      "problem_id": "442",
+      "title_slug": "find-all-duplicates-in-an-array",
+      "has_solution": true,
+      "solution_files": [
+        "solution.cpp"
+      ],
+      "has_cpp": true,
+      "cpp_files": [
+        "solution.cpp"
+      ],
+      "has_readme": true,
+      "tracker_entry": {
+        "key": "find-all-duplicates-in-an-array:cpp",
+        "submission_id": "2065195336"
+      },
+      "verification_status": "needs_review"
+    },
+    {
+      "folder_name": "485-max-consecutive-ones",
+      "problem_id": "485",
+      "title_slug": "max-consecutive-ones",
+      "has_solution": true,
+      "solution_files": [
+        "solution.cpp"
+      ],
+      "has_cpp": true,
+      "cpp_files": [
+        "solution.cpp"
+      ],
+      "has_readme": true,
+      "tracker_entry": {
+        "key": "max-consecutive-ones:cpp",
+        "submission_id": "2086471272"
+      },
+      "verification_status": "needs_review"
+    },
+    {
+      "folder_name": "540-single-element-in-a-sorted-array",
+      "problem_id": "540",
+      "title_slug": "single-element-in-a-sorted-array",
+      "has_solution": true,
+      "solution_files": [
+        "solution.cpp"
+      ],
+      "has_cpp": true,
+      "cpp_files": [
+        "solution.cpp"
+      ],
+      "has_readme": true,
+      "tracker_entry": {
+        "key": "single-element-in-a-sorted-array:cpp",
+        "submission_id": "2074048267"
+      },
+      "verification_status": "needs_review"
+    },
+    {
+      "folder_name": "541-reverse-string-ii",
+      "problem_id": "541",
+      "title_slug": "reverse-string-ii",
+      "has_solution": true,
+      "solution_files": [
+        "solution.cpp"
+      ],
+      "has_cpp": true,
+      "cpp_files": [
+        "solution.cpp"
+      ],
+      "has_readme": true,
+      "tracker_entry": {
+        "key": "reverse-string-ii:cpp",
+        "submission_id": "2099490375"
+      },
+      "verification_status": "needs_review"
+    },
+    {
+      "folder_name": "557-reverse-words-in-a-string-iii",
+      "problem_id": "557",
+      "title_slug": "reverse-words-in-a-string-iii",
+      "has_solution": true,
+      "solution_files": [
+        "solution.cpp"
+      ],
+      "has_cpp": true,
+      "cpp_files": [
+        "solution.cpp"
+      ],
+      "has_readme": true,
+      "tracker_entry": {
+        "key": "reverse-words-in-a-string-iii:cpp",
+        "submission_id": "2096350244"
+      },
+      "verification_status": "needs_review"
+    },
+    {
+      "folder_name": "567-permutation-in-string",
+      "problem_id": "567",
+      "title_slug": "permutation-in-string",
+      "has_solution": true,
+      "solution_files": [
+        "solution.cpp"
+      ],
+      "has_cpp": true,
+      "cpp_files": [
+        "solution.cpp"
+      ],
+      "has_readme": true,
+      "tracker_entry": {
+        "key": "permutation-in-string:cpp",
+        "submission_id": "2115103570"
+      },
+      "verification_status": "needs_review"
+    },
+    {
+      "folder_name": "66-plus-one",
+      "problem_id": "66",
+      "title_slug": "plus-one",
+      "has_solution": true,
+      "solution_files": [
+        "solution.cpp"
+      ],
+      "has_cpp": true,
+      "cpp_files": [
+        "solution.cpp"
+      ],
+      "has_readme": true,
+      "tracker_entry": {
+        "key": "plus-one:cpp",
+        "submission_id": "2113131216"
+      },
+      "verification_status": "needs_review"
+    },
+    {
+      "folder_name": "67-add-binary",
+      "problem_id": "67",
+      "title_slug": "add-binary",
+      "has_solution": true,
+      "solution_files": [
+        "solution.cpp"
+      ],
+      "has_cpp": true,
+      "cpp_files": [
+        "solution.cpp"
+      ],
+      "has_readme": true,
+      "tracker_entry": {
+        "key": "add-binary:cpp",
+        "submission_id": "2093439648"
+      },
+      "verification_status": "needs_review"
+    },
+    {
+      "folder_name": "69-sqrtx",
+      "problem_id": "69",
+      "title_slug": "sqrtx",
+      "has_solution": true,
+      "solution_files": [
+        "solution.cpp"
+      ],
+      "has_cpp": true,
+      "cpp_files": [
+        "solution.cpp"
+      ],
+      "has_readme": true,
+      "tracker_entry": {
+        "key": "sqrtx:cpp",
+        "submission_id": "2089434413"
+      },
+      "verification_status": "needs_review"
+    },
+    {
+      "folder_name": "7-reverse-integer",
+      "problem_id": "7",
+      "title_slug": "reverse-integer",
+      "has_solution": true,
+      "solution_files": [
+        "solution.cpp"
+      ],
+      "has_cpp": true,
+      "cpp_files": [
+        "solution.cpp"
+      ],
+      "has_readme": true,
+      "tracker_entry": {
+        "key": "reverse-integer:cpp",
+        "submission_id": "2105854494"
+      },
+      "verification_status": "needs_review"
+    },
+    {
+      "folder_name": "742-to-lower-case",
+      "problem_id": "742",
+      "title_slug": "to-lower-case",
+      "has_solution": true,
+      "solution_files": [
+        "solution.cpp"
+      ],
+      "has_cpp": true,
+      "cpp_files": [
+        "solution.cpp"
+      ],
+      "has_readme": true,
+      "tracker_entry": {
+        "key": "to-lower-case:cpp",
+        "submission_id": "2102365840"
+      },
+      "verification_status": "needs_review"
+    },
+    {
+      "folder_name": "745-find-smallest-letter-greater-than-target",
+      "problem_id": "745",
+      "title_slug": "find-smallest-letter-greater-than-target",
+      "has_solution": true,
+      "solution_files": [
+        "solution.cpp"
+      ],
+      "has_cpp": true,
+      "cpp_files": [
+        "solution.cpp"
+      ],
+      "has_readme": true,
+      "tracker_entry": {
+        "key": "find-smallest-letter-greater-than-target:cpp",
+        "submission_id": "2074097493"
+      },
+      "verification_status": "needs_review"
+    },
+    {
+      "folder_name": "75-sort-colors",
+      "problem_id": "75",
+      "title_slug": "sort-colors",
+      "has_solution": true,
+      "solution_files": [
+        "solution.cpp"
+      ],
+      "has_cpp": true,
+      "cpp_files": [
+        "solution.cpp"
+      ],
+      "has_readme": true,
+      "tracker_entry": {
+        "key": "sort-colors:cpp",
+        "submission_id": "2069388762"
+      },
+      "verification_status": "needs_review"
+    },
+    {
+      "folder_name": "792-binary-search",
+      "problem_id": "792",
+      "title_slug": "binary-search",
+      "has_solution": true,
+      "solution_files": [
+        "solution.cpp"
+      ],
+      "has_cpp": true,
+      "cpp_files": [
+        "solution.cpp"
+      ],
+      "has_readme": true,
+      "tracker_entry": {
+        "key": "binary-search:cpp",
+        "submission_id": "2070605309"
+      },
+      "verification_status": "needs_review"
+    },
+    {
+      "folder_name": "80-remove-duplicates-from-sorted-array-ii",
+      "problem_id": "80",
+      "title_slug": "remove-duplicates-from-sorted-array-ii",
+      "has_solution": true,
+      "solution_files": [
+        "solution.cpp"
+      ],
+      "has_cpp": true,
+      "cpp_files": [
+        "solution.cpp"
+      ],
+      "has_readme": true,
+      "tracker_entry": {
+        "key": "remove-duplicates-from-sorted-array-ii:cpp",
+        "submission_id": "2120894408"
+      },
+      "verification_status": "needs_review"
+    },
+    {
+      "folder_name": "81-search-in-rotated-sorted-array-ii",
+      "problem_id": "81",
+      "title_slug": "search-in-rotated-sorted-array-ii",
+      "has_solution": true,
+      "solution_files": [
+        "solution.cpp"
+      ],
+      "has_cpp": true,
+      "cpp_files": [
+        "solution.cpp"
+      ],
+      "has_readme": true,
+      "tracker_entry": {
+        "key": "search-in-rotated-sorted-array-ii:cpp",
+        "submission_id": "2074020884"
+      },
+      "verification_status": "needs_review"
+    },
+    {
+      "folder_name": "88-merge-sorted-array",
+      "problem_id": "88",
+      "title_slug": "merge-sorted-array",
+      "has_solution": true,
+      "solution_files": [
+        "solution.cpp"
+      ],
+      "has_cpp": true,
+      "cpp_files": [
+        "solution.cpp"
+      ],
+      "has_readme": true,
+      "tracker_entry": {
+        "key": "merge-sorted-array:cpp",
+        "submission_id": "2089061641"
+      },
+      "verification_status": "needs_review"
+    },
+    {
+      "folder_name": "882-peak-index-in-a-mountain-array",
+      "problem_id": "882",
+      "title_slug": "peak-index-in-a-mountain-array",
+      "has_solution": true,
+      "solution_files": [
+        "solution.cpp"
+      ],
+      "has_cpp": true,
+      "cpp_files": [
+        "solution.cpp"
+      ],
+      "has_readme": true,
+      "tracker_entry": {
+        "key": "peak-index-in-a-mountain-array:cpp",
+        "submission_id": "2073102697"
+      },
+      "verification_status": "needs_review"
+    },
+    {
+      "folder_name": "898-transpose-matrix",
+      "problem_id": "898",
+      "title_slug": "transpose-matrix",
+      "has_solution": true,
+      "solution_files": [
+        "solution.cpp"
+      ],
+      "has_cpp": true,
+      "cpp_files": [
+        "solution.cpp"
+      ],
+      "has_readme": true,
+      "tracker_entry": {
+        "key": "transpose-matrix:cpp",
+        "submission_id": "2124987747"
+      },
+      "verification_status": "needs_review"
+    },
+    {
+      "folder_name": "9-palindrome-number",
+      "problem_id": "9",
+      "title_slug": "palindrome-number",
+      "has_solution": true,
+      "solution_files": [
+        "solution.cpp"
+      ],
+      "has_cpp": true,
+      "cpp_files": [
+        "solution.cpp"
+      ],
+      "has_readme": true,
+      "tracker_entry": {
+        "key": "palindrome-number:cpp",
+        "submission_id": "2044885111"
+      },
+      "verification_status": "needs_review"
+    },
+    {
+      "folder_name": "907-koko-eating-bananas",
+      "problem_id": "907",
+      "title_slug": "koko-eating-bananas",
+      "has_solution": true,
+      "solution_files": [
+        "solution.cpp"
+      ],
+      "has_cpp": true,
+      "cpp_files": [
+        "solution.cpp"
+      ],
+      "has_readme": true,
+      "tracker_entry": {
+        "key": "koko-eating-bananas:cpp",
+        "submission_id": "2075249103"
+      },
+      "verification_status": "needs_review"
+    },
+    {
+      "folder_name": "941-sort-array-by-parity",
+      "problem_id": "941",
+      "title_slug": "sort-array-by-parity",
+      "has_solution": true,
+      "solution_files": [
+        "solution.cpp"
+      ],
+      "has_cpp": true,
+      "cpp_files": [
+        "solution.cpp"
+      ],
+      "has_readme": true,
+      "tracker_entry": {
+        "key": "sort-array-by-parity:cpp",
+        "submission_id": "2069338019"
+      },
+      "verification_status": "needs_review"
+    }
+  ],
+  "problem_folders_count": 64
+}

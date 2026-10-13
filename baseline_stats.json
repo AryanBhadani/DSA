@@ -1,0 +1,17 @@
+{
+  "retrieved_at": "2026-10-13T18:41:30Z",
+  "source": "LeetCode Public GraphQL API (unauthenticated)",
+  "username": "Aryanbhadani123",
+  "profile_url": "https://leetcode.com/u/Aryanbhadani123/",
+  "statistics": {
+    "total_solved": 107,
+    "easy": 76,
+    "medium": 30,
+    "hard": 1
+  },
+  "notes": [
+    "These are profile statistics only.",
+    "Does not represent retrieval of all 107 problem slugs or source files.",
+    "Complete submission list requires authentication."
+  ]
+}
